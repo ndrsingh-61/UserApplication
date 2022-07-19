@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserApp/1.0.0": {
+        "dependencies": {
+          "Microsoft.jQuery.Unobtrusive.Validation": "3.2.12",
+          "jQuery": "3.6.0",
+          "jQuery.Validation": "1.19.3"
+        },
+        "runtime": {
+          "UserApp.dll": {}
+        }
+      },
+      "jQuery/3.6.0": {},
+      "jQuery.Validation/1.19.3": {
+        "dependencies": {
+          "jQuery": "3.6.0"
+        }
+      },
+      "Microsoft.jQuery.Unobtrusive.Validation/3.2.12": {
+        "dependencies": {
+          "jQuery": "3.6.0",
+          "jQuery.Validation": "1.19.3"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jQuery/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sSzCTDWn15waSMjDrP21jjgG1j1pwISLaKiVCClwU4XGAmuZt+FScLkdyRvh9ppoIxAW/tJtJBYei+3CAwFQ7g==",
+      "path": "jquery/3.6.0",
+      "hashPath": "jquery.3.6.0.nupkg.sha512"
+    },
+    "jQuery.Validation/1.19.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y9oA2cqUyuJYd+egyp/2VwsUT4mH1X31R7i74VTm1i/7XhnSK0iAWsPvQBXxXz6BhOnEDhAQ0u12Aj830/e1YA==",
+      "path": "jquery.validation/1.19.3",
+      "hashPath": "jquery.validation.1.19.3.nupkg.sha512"
+    },
+    "Microsoft.jQuery.Unobtrusive.Validation/3.2.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zu4ELNl5KW5vVfEeqeTxYFg/VvVmogCQDxNXnPDT9MjbtNpNdZVoRkq0nQAbtRo031PEUQsz2+3Qlb8RSInDOw==",
+      "path": "microsoft.jquery.unobtrusive.validation/3.2.12",
+      "hashPath": "microsoft.jquery.unobtrusive.validation.3.2.12.nupkg.sha512"
+    }
+  }
+}

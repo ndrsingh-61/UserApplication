@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNWKQWFUdj8MwdO3B+BVL8Jvy3cRZ3pLuetbYGoZr8Nnqnng5AwQ4l8H1iWo5ZgrrqpFoxkSKfrMs7kPrm++zw==",
+  "success": true,
+  "projectFilePath": "F:\\UserApp\\UserApp\\UserApp\\UserApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amit Kumar\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512",
+    "C:\\Users\\Amit Kumar\\.nuget\\packages\\jquery.validation\\1.19.3\\jquery.validation.1.19.3.nupkg.sha512",
+    "C:\\Users\\Amit Kumar\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\3.2.12\\microsoft.jquery.unobtrusive.validation.3.2.12.nupkg.sha512"
+  ],
+  "logs": []
+}
